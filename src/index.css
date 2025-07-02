@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  /* background-image: linear-gradient(#D8C7FF,#19006C); */
+  font-family: 'poppins';
+  background-image: url('https://img.freepik.com/free-psd/3d-rendering-questions-background_23-2151455632.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}

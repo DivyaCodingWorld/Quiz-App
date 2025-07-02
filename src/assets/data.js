@@ -1,0 +1,42 @@
+export const data=[
+  {
+     question: "Which hook is used to manage state in a functional component?",
+     option1:"useRef()",
+     option2:"useEffect()",
+     option3:"useState()",
+     option4:"useMemo()",
+     ans: 3,
+  },
+  {
+     question: "Which of the following is true about JSX?",
+     option1:"JSX is a template engine.",
+     option2:"JSX is a valid JavaScript syntax.",
+     option3:"JSX must be compiled into JavaScript using Babel.",
+     option4:"JSX is a CSS framework.",
+     ans: 3,
+  },
+{
+  question: "What is the purpose of useEffect() in React?",
+  option1:"To directly modify the DOM",
+  option2:"To perform side effects in components (e.g., data fetching, subscriptions)",
+  option3:"To create stateful logic",
+  option4:" To define routes in a React app",
+  ans: 2,
+},
+{
+  question: "In React, keys are used for:",
+  option1:"Encryption of component data",
+  option2:"Updating state",
+  option3:"Identifying which items have changed, are added, or removed from a list",
+  option4:"Binding event handlers",
+  ans: 3,
+},
+{
+  question: "What is the virtual DOM in React?",
+  option1:" A copy of the real DOM that is stored on the server",
+  option2:"A UI design system used in React",
+  option3:"A lightweight JavaScript representation of the actual DOM",
+  option4:"A plugin for React to speed up development",
+  ans: 3,
+},
+];
